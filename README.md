@@ -5,15 +5,19 @@
 - Dimas Ahmad Satrio Wicaksono ( RKA 015)
 - Naufal Humam Maulana ( RKA 022)
 
-https://github.com/user-attachments/assets/212ab04b-3c0d-4152-8508-938ebc0d3921
+https://github.com/user-attachments/assets/f24a5a85-ba50-4341-81e5-91103fdc566d
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/duj-p9eF)
 
 # 🐉 Little Dragon AR
 Little Dragon AR adalah aplikasi Augmented Reality yang menampilkan naga 3D interaktif menggunakan EasyAR. Pengguna dapat memunculkan telur naga di dunia nyata, melihat proses penetasan, serta menikmati animasi naga lengkap dengan serangan fireball dan kontrol kamera.
 
-# DEMO APLIKASI
-![Demo Little Dragon AR](ezgif-31773da3c5e4f29a.gif)
+### 🧠 Penerapan AI
+Inti dari pengalaman Augmented Reality (AR) pada **AetherDragon** dibangun menggunakan teknologi *Computer Vision* tingkat lanjut untuk memastikan interaksi yang *seamless* antara objek virtual dan dunia nyata:
+
+* **Environmental Understanding (SLAM):** Menggunakan algoritma *Simultaneous Localization and Mapping* untuk memetakan lingkungan fisik secara *real-time*. Sistem memproses *feed* kamera untuk melacak posisi perangkat (6DoF tracking) relatif terhadap lingkungan.
+* **Plane Detection:** Algoritma AI mendeteksi kluster titik fitur (*feature points*) pada permukaan horizontal (seperti meja atau lantai) untuk menghasilkan *anchor* yang stabil. Ini memungkinkan karakter Naga untuk ditempatkan dan "berdiri" di atas permukaan nyata tanpa bergeser.
+* **Real-time Pose Estimation:** Memastikan orientasi dan skala objek virtual tetap konsisten mengikuti pergerakan kamera pengguna.
+
 
 ## ✨ Fitur Utama
 
