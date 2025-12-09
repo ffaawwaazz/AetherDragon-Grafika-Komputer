@@ -5,7 +5,10 @@
 - Dimas Ahmad Satrio Wicaksono ( RKA 015)
 - Naufal Humam Maulana ( RKA 022)
 
-https://github.com/user-attachments/assets/f24a5a85-ba50-4341-81e5-91103fdc566d
+
+
+https://github.com/user-attachments/assets/c9f26f40-30bb-4504-9f93-6c15213cad5a
+
 
 
 # 🐉 Little Dragon AR
